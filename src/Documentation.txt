@@ -1,0 +1,6 @@
+Backend 
+FireBase:
+getFireStore : firebase/firestore
+addDoc nd collection :  in firebase/firestore is use to add data to firestore and create new collection 
+
+ref , uploadBytes and getDownloadURL : use to store the images

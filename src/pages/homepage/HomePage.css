@@ -1,0 +1,15 @@
+.homepage{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px auto;
+}
+.homePanelContainer{
+    display: grid;
+    width: 80%;
+    grid-template-columns: 1fr 1fr ;
+    row-gap: 20px;
+    column-gap: 20px;
+    
+}
